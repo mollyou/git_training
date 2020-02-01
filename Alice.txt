@@ -1,2 +1,8 @@
 Hi! I'm Alice. I'm a file someone added to this repository a while ago.
+<<<<<<< HEAD
 Changing from the website.
+=======
+Changing from change_alice branch.
+Merging divergent branches from change_alice branch.
+Edite from "Rebasing" part.
+>>>>>>> Rebasing
